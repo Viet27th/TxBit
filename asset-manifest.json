@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e830d810.css",
-    "main.js": "/static/js/main.e276ee47.js",
-    "static/js/787.bd268377.chunk.js": "/static/js/787.bd268377.chunk.js",
-    "index.html": "/index.html",
-    "main.e830d810.css.map": "/static/css/main.e830d810.css.map",
-    "main.e276ee47.js.map": "/static/js/main.e276ee47.js.map",
-    "787.bd268377.chunk.js.map": "/static/js/787.bd268377.chunk.js.map"
+    "main.css": "/TxBit/static/css/main.e830d810.css",
+    "main.js": "/TxBit/static/js/main.455794e3.js",
+    "static/js/787.bd268377.chunk.js": "/TxBit/static/js/787.bd268377.chunk.js",
+    "index.html": "/TxBit/index.html",
+    "main.e830d810.css.map": "/TxBit/static/css/main.e830d810.css.map",
+    "main.455794e3.js.map": "/TxBit/static/js/main.455794e3.js.map",
+    "787.bd268377.chunk.js.map": "/TxBit/static/js/787.bd268377.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e830d810.css",
-    "static/js/main.e276ee47.js"
+    "static/js/main.455794e3.js"
   ]
 }
