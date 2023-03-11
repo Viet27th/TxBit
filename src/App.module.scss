@@ -1,0 +1,22 @@
+.app {
+  .buy-col,
+  .sell-col {
+    height: 70vh;
+    overflow: scroll;
+
+    :global {
+      .row {
+        padding: 5px;
+        border-bottom: 1px solid gray;
+      }
+    }
+  }
+
+  .buy-col {
+    color: green;
+  }
+
+  .sell-col {
+    color: red;
+  }
+}
